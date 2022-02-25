@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Warlord-10
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on AI and stock market
+- 💞️ I’m looking to collaborate on AI
 - 📫 How to reach me ...
 
 <!---
