@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Warlord-10
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on AI
-- 📫 How to reach me ...
+- 👋 Hi, I’m Deepanshu Joshi, 18 years old and currently a Computer Science student.
+- 🌱 I’m currently learning Python and along with that HTML and CSS
+
 
 <!---
 Warlord-10/Warlord-10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
