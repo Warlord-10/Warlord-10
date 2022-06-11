@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Deepanshu Joshi, 18 years old and currently a Computer Science student.
+- 👋 Hi, I’m Deepanshu Joshi, 18 years old and currently a Computer Science student and a coding enthusiast.
 - 🌱 I’m currently learning Python and along with that HTML and CSS
 
 
